@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.amazonaws:amazon-kinesis-producer:0.14.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/amazonaws/amazon-kinesis-producer/0.14.1/amazon-kinesis-producer-0.14.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/amazonaws/amazon-kinesis-producer/0.14.1/amazon-kinesis-producer-0.14.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/amazonaws/amazon-kinesis-producer/0.14.1/amazon-kinesis-producer-0.14.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

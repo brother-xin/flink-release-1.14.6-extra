@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.facebook.airlift:log:0.201">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/facebook/airlift/log/0.201/log-0.201.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/facebook/airlift/log/0.201/log-0.201-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/facebook/airlift/log/0.201/log-0.201-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

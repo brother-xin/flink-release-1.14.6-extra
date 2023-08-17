@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.facebook.presto:presto-hive-common:0.272">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/facebook/presto/presto-hive-common/0.272/presto-hive-common-0.272.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/facebook/presto/presto-hive-common/0.272/presto-hive-common-0.272-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/facebook/presto/presto-hive-common/0.272/presto-hive-common-0.272-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

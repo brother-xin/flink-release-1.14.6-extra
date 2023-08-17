@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.fabric8:kubernetes-model-discovery:5.5.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/io/fabric8/kubernetes-model-discovery/5.5.0/kubernetes-model-discovery-5.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/io/fabric8/kubernetes-model-discovery/5.5.0/kubernetes-model-discovery-5.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/io/fabric8/kubernetes-model-discovery/5.5.0/kubernetes-model-discovery-5.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

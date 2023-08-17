@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:flink-connector-kinesis_2.12:test-jar:tests:1.14.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/org/apache/flink/flink-connector-kinesis_2.12/1.14.6/flink-connector-kinesis_2.12-1.14.6-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/org/apache/flink/flink-connector-kinesis_2.12/1.14.6/flink-connector-kinesis_2.12-1.14.6-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/org/apache/flink/flink-connector-kinesis_2.12/1.14.6/flink-connector-kinesis_2.12-1.14.6-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

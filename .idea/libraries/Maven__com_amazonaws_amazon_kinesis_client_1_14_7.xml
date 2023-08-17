@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.amazonaws:amazon-kinesis-client:1.14.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/amazonaws/amazon-kinesis-client/1.14.7/amazon-kinesis-client-1.14.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/amazonaws/amazon-kinesis-client/1.14.7/amazon-kinesis-client-1.14.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/com/amazonaws/amazon-kinesis-client/1.14.7/amazon-kinesis-client-1.14.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

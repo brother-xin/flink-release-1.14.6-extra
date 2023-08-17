@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.pulsar:bouncy-castle-bc:pkg:2.9.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/org/apache/pulsar/bouncy-castle-bc/2.9.1/bouncy-castle-bc-2.9.1-pkg.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/org/apache/pulsar/bouncy-castle-bc/2.9.1/bouncy-castle-bc-2.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/org/apache/pulsar/bouncy-castle-bc/2.9.1/bouncy-castle-bc-2.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

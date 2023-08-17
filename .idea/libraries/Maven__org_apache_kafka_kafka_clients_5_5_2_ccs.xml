@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.kafka:kafka-clients:5.5.2-ccs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/org/apache/kafka/kafka-clients/5.5.2-ccs/kafka-clients-5.5.2-ccs.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/org/apache/kafka/kafka-clients/5.5.2-ccs/kafka-clients-5.5.2-ccs-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Module/Maven/repo/org/apache/kafka/kafka-clients/5.5.2-ccs/kafka-clients-5.5.2-ccs-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
